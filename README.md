@@ -21,3 +21,18 @@
 1. Add to Altium:
    ```bash
    git clone https://github.com/fdmxfarhan/altium-library.git
+
+## 📦 Latest Release
+
+<div align="center">
+
+[![Download Button](https://img.shields.io/badge/Download_Latest_Release-Altium_Library-blue?style=for-the-badge&logo=github)](https://github.com/fdmxfarhan/altium-library/releases/latest)
+  
+✨ **One-click download** of the complete library as a `.zip`  
+📅 _Updated: May 2024_ | ⚡ _Version: v1.2.0_
+
+</div>
+
+### Or via command line:
+```bash
+wget https://github.com/fdmxfarhan/altium-library/archive/refs/tags/v1.2.0.zip
