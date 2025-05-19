@@ -17,15 +17,6 @@
 
 ---
 
-## 📂 Library Structure
-├── 3D/               # 3D models
-│ ├── Arduino_Nano/
-│ ├── STM32_BluePill/
-│ └── ...
-├── Other_Libs/       # Supplemental manufacturer libraries
-├── .gitattributes
-└── README.md
-
 ## ⚡ Quick Start
 1. Add to Altium:
    ```bash
